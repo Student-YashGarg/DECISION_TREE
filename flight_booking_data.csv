@@ -1,0 +1,15 @@
+Source,Destination,Airline,TravelClass,Duration,Halt,Cancellation
+Delhi,Mumbai,IndiGo,Economy,2.5,Non-stop,0
+Mumbai,Bangalore,SpiceJet,Business,1.5,Non-stop,0
+Delhi,Kolkata,Air India,Economy,2.0,1 Stop,1
+Chennai,Delhi,IndiGo,Economy,3.0,Non-stop,0
+Bangalore,Delhi,SpiceJet,Business,3.5,1 Stop,1
+Mumbai,Kolkata,GoAir,Economy,2.2,Non-stop,0
+Delhi,Mumbai,IndiGo,Business,2.5,Non-stop,0
+Kolkata,Delhi,Air India,Economy,2.8,1 Stop,1
+Chennai,Bangalore,IndiGo,Economy,1.0,Non-stop,0
+Delhi,Chennai,Vistara,Business,2.6,Non-stop,0
+Mumbai,Bangalore,Air Asia,Economy,1.4,Non-stop,0
+Bangalore,Kolkata,SpiceJet,Economy,3.0,1 Stop,1
+Kolkata,Mumbai,IndiGo,Business,2.1,Non-stop,0
+Chennai,Kolkata,Air India,Economy,2.9,1 Stop,1

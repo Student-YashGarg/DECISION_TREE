@@ -1,0 +1,17 @@
+company,job,degree,salary
+NetFlix,sales executive,bachelors,0
+NetFlix,sales executive,masters,0
+NetFlix,business manager,bachelors,1
+NetFlix,business manager,masters,1
+NetFlix,computer programmer,bachelors,0
+NetFlix,computer programmer,masters,1
+Cipla pharma,sales executive,masters,0
+Cipla pharma,computer programmer,bachelors,0
+Cipla pharma,business manager,bachelors,0
+Cipla pharma,business manager,masters,1
+Microsoft,sales executive,bachelors,1
+Microsoft,sales executive,masters,1
+Microsoft,business manager,bachelors,1
+Microsoft,business manager,masters,1
+Microsoft,computer programmer,bachelors,1
+Microsoft,computer programmer,masters,1
